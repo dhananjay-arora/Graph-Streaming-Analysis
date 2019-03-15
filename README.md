@@ -7,11 +7,14 @@ Graph data structures provide powerful representation of relational objects (or 
 In the project, our topics are cast into the following five categories:
 
 Network topology characteristics
+
 Anomaly detection in complex network
+
 Similarity ensemble approach (SEA)
+
 Simulation of Crayfish behavior models
+
 Linear programming. Many graph problem can be cast to an optimization problem. Linear programming (LP) is a central topic in optimization. It can be employed to depict complex relationships through linear functions and then find the optimum points. It is a powerful tool in modeling many applications and perform optimization. In the project, we would like to emphasize the famous alignment problems.
-This is a team project. Each team choose one project topic to work on. The project formats depend on topics. Some are on the survey report and others on programming report. All teams need to follow the timeline, submit the report, and present in class.
 
 Topics:
 
@@ -23,19 +26,31 @@ Here we list popular topology properties
 Node Centrality
 
 Node centrality (node degree distribution and node weight degree distribution)
+
 Betweenness centrality: the fraction of all shortest paths that pass through a node
+
 Page rank centrality: the number of times that a node will be visited on a sufficiently long random walk on the graph
+
 Path Length
 
 Average shortest path length from a node to all other nodes. It relates to the routing hops
+
 Diameter: longest of the shortest paths between all pairs of nodes
+
 Effective diameter: path length that defines the 90th percentile of all paths
+
 Community Structure
 
 Clustering coefficient: the number of edges among the neighbors of a node as compared to the maximum possible numbers. The clustering coefficient is related to the resilience of the routing infrastructure because it reflects the number of alternative route between pairs of nodes
+
 Degree assortativity measures whether nodes tend to connect others of similar degree
+
 K-cores decomposition measures successive maximally connected subgraphs
+
 Structural centrality: hierarchy from the most influential nodes to least influential nodes
+
 Scale-free Structure
+
 Check whether the degree distribution follows the power-law distribution
-Small-world network versus scale-free network
+
+Small-world network versus scale-free network.
