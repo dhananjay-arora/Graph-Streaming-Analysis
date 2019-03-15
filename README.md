@@ -37,6 +37,5 @@ Degree assortativity measures whether nodes tend to connect others of similar de
 K-cores decomposition measures successive maximally connected subgraphs
 Structural centrality: hierarchy from the most influential nodes to least influential nodes
 Scale-free Structure
-
 Check whether the degree distribution follows the power-law distribution
 Small-world network versus scale-free network
